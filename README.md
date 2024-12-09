@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ferdysopian.github.io-ff69b4)](https://ferdysopian.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferdy%20Sopian-0077b5)](https://www.linkedin.com/in/ferdysopian)
-[![Twitter](https://img.shields.io/badge/Twitter-@ferdysopian__-1da1f2)](https://x.com/ferdysopian_)
+[![Twitter](https://img.shields.io/badge/Twitter-@ferdysopian_-1da1f2)](https://x.com/ferdysopian)
 [![GitHub](https://img.shields.io/github/followers/ferdysopian?label=Follow&style=social)](https://github.com/ferdysopian)
 ![Profile Views](https://komarev.com/ghpvc/?username=ferdysopian)
 
